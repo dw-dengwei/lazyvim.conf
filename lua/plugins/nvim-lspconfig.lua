@@ -50,6 +50,13 @@ return {
           clangdFileStatus = true,
         },
       },
+      grammarly = {
+        -- cmd = { "grammarlly-server", "--stdio" },
+        -- filetypes = { "markdown", "text" },
+        init_options = {
+          clientId = "client_BaDkMgx4X19X9UxxYRCXZo",
+        },
+      },
     },
   },
   setup = {

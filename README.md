@@ -6,7 +6,7 @@ Fork https://github.com/LazyVim/starter.
 - npm
 - gcc
 - fdfind
-- node v16 for grammarly-langageserver
+- [optinal] node v16 for grammarly-langageserver
 
 # Installation
 - Make a backup of your current Neovim files:

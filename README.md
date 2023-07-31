@@ -21,7 +21,7 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 - Clone this repo
 ```bash
-git clone git@github.com:dw-dengwei/lazyvim.conf.git ~/.config/nvim
+git clone https://github.com/dw-dengwei/lazyvim.conf.git ~/.config/nvim
 ```
 - Remove the `.git` folder, so you can add it to your own repo later
 ```bash
